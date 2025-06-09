@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="BariumSolutions">
+	<TEXT ID="BariumSolutions_one">
+		<TEXTVALUE>Click on any of the given volumes of the barium solution in a small reagent bottle to start the estimation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Standerflask">
+	<TEXT ID="Standerflask_one">
+		<TEXTVALUE>Insert a funnel in the mouth of the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Standerflask_two">
+		<TEXTVALUE>Place a glass rod in the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Standerflask_three">
+		<TEXTVALUE>Now, pour the entire barium solution into the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Standerflask_four">
+		<TEXTVALUE>Place a glass rod on the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Standerflask_five">
+		<TEXTVALUE>Now, pour the entire barium solution to the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="MixWithWter">
+	<TEXT ID="MixWithWter_one">
+		<TEXTVALUE>Pour some distilled water into the reagent bottle and shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPourwater">
+	<TEXT ID="InOrgPourwater_one">
+		<TEXTVALUE>Pour it into the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWater2">
+	<TEXT ID="InOrgWater2_one">
+		<TEXTVALUE>Repeat the same procedure till the entire barium solution is transferred to the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPourwater2">
+	<TEXT ID="InOrgPourwater2_one">
+		<TEXTVALUE>Repeat the same procedure until the entire barium solution is transferred to the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgPourwater2_two">
+		<TEXTVALUE>Remove the glass rod and funnel from the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgMadeup100ml">
+	<TEXT ID="InOrgMadeup100ml_one">
+		<TEXTVALUE>Make up the barium solution to 100ml using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgShakesolution">
+	<TEXT ID="InOrgShakesolution_one">
+		<TEXTVALUE>Close the standard flask using a cork.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="InOrgShakesolution_two">
+		<TEXTVALUE>Shake the flask well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette1">
+	<TEXT ID="InOrgPipette1_one">
+		<TEXTVALUE>Take a clean beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgPipette1_two">
+		<TEXTVALUE>Open the cork of the flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgPipette1_three">
+		<TEXTVALUE>Take 20ml of barium  solution from the flask using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette2">
+	<TEXT ID="InOrgPipette2_one">
+		<TEXTVALUE>Take 20ml of barium solution from the flask using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette3">
+	<TEXT ID="InOrgPipette3_one">
+		<TEXTVALUE>Pipette out the solution into the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette4">
+	<TEXT ID="InOrgPipette4_one">
+		<TEXTVALUE>Pipette out the solution into the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclBeacker">
+	<TEXT ID="InOrgHclBeacker_one">
+		<TEXTVALUE>Take 5ml of 2N HCl acid into a measuring jar.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="InOrgHclBeacker1">
+	<TEXT ID="InOrgHclBeacker1_one">
+		<TEXTVALUE>Take 5ml of 2N HCl acid into a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BaruimHclBeacker">
+	<TEXT ID="BaruimHclBeacker_one">
+		<TEXTVALUE>Add it into the beaker containing barium solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="MixTheSolutionWithwater">
+	<TEXT ID="MixTheSolutionWithwater_one">
+		<TEXTVALUE>Pour some distilled water into the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclstir16">
+	<TEXT ID="InOrgHclstir16_one">
+		<TEXTVALUE>Stir the solution using glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclheat17">
+	<TEXT ID="InOrgHclheat17_one">
+		<TEXTVALUE>Heat the solution using heating mantle at 70°C -80°C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclheat18">
+	<TEXT ID="InOrgHclheat18_one">
+		<TEXTVALUE>Heat the solution using heating mantle at 70°C -80°C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgdmgheat21">
+	<TEXT ID="InOrgdmgheat21_one">
+		<TEXTVALUE>Remove the beaker from the heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgamonia22">
+	<TEXT ID="InOrgamonia22_one">
+		<TEXTVALUE>Add some drops of 4N H[sub]2[/sub]SO[sub]4[/sub] using a dropper to the boiled solution and stir it well using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="InOrgAmoniadrop23">
+	<TEXT ID="InOrgAmoniadrop23_one">
+		<TEXTVALUE>Add some drops of 4N H[sub]2[/sub]SO[sub]4[/sub] using a dropper to the boiled solution and stir it well using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="InOrgAmoniadrop24">
+	<TEXT ID="InOrgAmoniadrop24_one">
+		<TEXTVALUE>Repeat the process until a white powder is precipitated out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgAmoniadrop24copy">
+	<TEXT ID="InOrgAmoniadrop24copy_one">
+		<TEXTVALUE>Repeat the process until a white powder is precipitated out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="InOrgAmoniared26">
+	<TEXT ID="InOrgAmoniared26_one">
+		<TEXTVALUE>Repeat the process until a white powder is precipitated out.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="InOrgWtrBth27">
+	<TEXT ID="InOrgWtrBth27_one">
+		<TEXTVALUE>Boil the solution using a water bath for 5 minutes. Close the mouth of the beaker with a watch glass.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgWtrBth27_two">
+		<TEXTVALUE>Remove the beaker from the water bath.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWatertray28">
+	<TEXT ID="InOrgWatertray28_one">
+		<TEXTVALUE>Allow it to cool using a cool water tray.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumFilterpaper1">
+	<TEXT ID="BariumFilterpaper1_one">
+		<TEXTVALUE>Take a filter paper and fold it into conical shape.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="BariumFilterpaper2">
+	<TEXT ID="BariumFilterpaper2_one">
+		<TEXTVALUE>Take a filter paper and fold it into conical shape.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumFPtofunnel">
+	<TEXT ID="BariumFPtofunnel_one">
+		<TEXTVALUE>Fix the paper on the mouth of a funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="BariumFPWet">
+	<TEXT ID="BariumFPWet_one">
+		<TEXTVALUE>Pour some distilled water to wet the filter paper.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="BariumClamp">
+	<TEXT ID="BariumClamp_one">
+		<TEXTVALUE>Clamp the funnel on the stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Bariumclamp_two">
+		<TEXTVALUE>Place a beaker below the funnel. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumPourppt">
+	<TEXT ID="BariumPourppt_one">
+		<TEXTVALUE>Hold the filter paper with a glass rod and pour the solution slowly through the rod to the beaker. The paper should not be filled more than 2/3 with the liquid to be filtered.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="BariumPourppt1">
+	<TEXT ID="BariumPourppt1_one">
+		<TEXTVALUE>Hold the filter paper with a glass rod and pour the solution slowly through the rod to the beaker. The paper should not be filled more than 2/3 with the liquid to be filtered.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumCleanBeaker">
+	<TEXT ID="BariumCleanBeaker_one">
+		<TEXTVALUE>Pour some hot water into the beaker to free the sulphate ions.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BariumCleanBeaker_two">
+		<TEXTVALUE>Stir it well with a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumPourppt2">
+	<TEXT ID="BariumPourppt2_one">
+		<TEXTVALUE>To conduct the sulphate test, collect some drops from the funnel in a test tube containing [cml]BaCl2 [/cml].  A white precipitate is formed, showing the presence of sulphate.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	<SCENE ID="Bariumchloridetest1">
+	<TEXT ID="Bariumchloridetest1_one">
+		<TEXTVALUE>To conduct the sulphate test, collect some drops from the funnel in a test tube containing [cml]BaCl2 [/cml], a white precipitate is formed, shows the presence of sulphate.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="Bariumpoliceman">
+	<TEXT ID="Bariumpoliceman_one">
+		<TEXTVALUE>Pour some hot water into the beaker again.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Bariumpoliceman_two">
+		<TEXTVALUE>Scrub it well using a policeman to remove the particles adhering to the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumPourppt3">
+	<TEXT ID="BariumPourppt3_one">
+		<TEXTVALUE>Pour the water completely into the beaker using the glass rod as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumchloridetest">
+	<TEXT ID="Bariumchloridetest_one">
+		<TEXTVALUE>Sulphate test should be conducted. If no precipitate is formed, absence of sulphate is indicated.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumcoverfunnel">
+	<TEXT ID="Bariumcoverfunnel_one">
+		<TEXTVALUE>Take a beaker and keep a funnel with a filter paper on the mouth of it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Bariumcoverfunnel_two">
+		<TEXTVALUE>Cover the mouth of the funnel with a filter paper as shown.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="BariumHotairoven">
+	<TEXT ID="BariumHotairoven_one">
+		<TEXTVALUE>Keep the beaker in an air oven for drying.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumTakingCrusible">
+	<TEXT ID="BariumTakingCrusible_one">
+		<TEXTVALUE>Meanwhile, weigh a porcelain crucible. Hold the crucible using a tong.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="BariumCrusiblegauge">
+	<TEXT ID="BariumCrusiblegauge_one">
+		<TEXTVALUE>Place the crucible on a tile.</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="BariumHotairoven1">
+	<TEXT ID="BariumHotairoven1_one">
+		<TEXTVALUE>Remove the beaker from the dryer using tongs.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Bariumpaperremoved">
+	<TEXT ID="Bariumpaperremoved_one">
+		<TEXTVALUE>Use a spatula to loosen the filter paper in the funnel.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="Bariumfilterpaper">
+	<TEXT ID="Bariumfilterpaper_one">
+		<TEXTVALUE>Flatten the removed filter paper as shown.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Bariumfilterpaper_two">
+		<TEXTVALUE>Fold in the edges and then fold over the top of the cone of filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumCrusibleprecipitate">
+	<TEXT ID="BariumCrusibleprecipitate_one">
+		<TEXTVALUE>Place the filter paper containing moist precipitate in the crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BariumCrusibleTongs">
+	<TEXT ID="BariumCrusibleTongs_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumcrusiblestand">
+	<TEXT ID="Bariumcrusiblestand_one">
+		<TEXTVALUE>Heat the crucible with the help of a triangle stand as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumcrusiblestandaloseshot">
+	<TEXT ID="Bariumcrusiblestandaloseshot_one">
+		<TEXTVALUE>The paper will burn to ashes.  Close the lid of the crucible when the paper catches fire.  After some time,  we can see white precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumcrusibletaking">
+	<TEXT ID="Bariumcrusibletaking_one">
+		<TEXTVALUE>Remove the crucible from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumcrusibleelectricburner">
+	<TEXT ID="Bariumcrusibleelectricburner_one">
+		<TEXTVALUE>Place it in an electric burner for some time to heat the white precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumcrusibledessicator">
+	<TEXT ID="Bariumcrusibledessicator_one">
+		<TEXTVALUE>Place the crucible in a dessicator using tongs.  Ca[cml]Cl2[/cml] is present in the bottom of the dessicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Bariumcrusibleweighingmachine">
+	<TEXT ID="Bariumcrusibleweighingmachine_one">
+		<TEXTVALUE>Weigh the crucible again in the weighing balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
