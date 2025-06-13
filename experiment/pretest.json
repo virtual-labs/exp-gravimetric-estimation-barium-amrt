@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "--------- is a process where the precipitate is re-dissolved and precipitated out of a cleaner environment.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Dissociation",
+        "b": "Digestion",
+        "c": "None of these",
+        "d": "Crystallization"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Dissociation is not the correct process here.",
+        "b": "Digestion is related but not the process of re-dissolution and re-precipitation.",
+        "c": "This option is incorrect.",
+        "d": "Correct: Crystallization involves re-dissolving and precipitating in a cleaner environment."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Digestion can help reduce the amount of-------------",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Precipitation",
+        "b": "Post-precipitation",
+        "c": "Co-precipitation",
+        "d": "Nucleation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Digestion does not reduce precipitation itself.",
+        "b": "Incorrect: Post-precipitation is not significantly affected by digestion.",
+        "c": "Correct: Digestion reduces co-precipitation by allowing impurities to separate.",
+        "d": "Nucleation is the initial step and not reduced by digestion."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The mass of substance is measured as a function of temperature in-----------",
+      "answers": {
+        "a": "Particulate Gravimetry",
+        "b": "Precipitative gravimetry",
+        "c": "Electrogravimetry",
+        "d": "Thermogravimetry"
+      },
+      "explanations": {
+        "a": "Not related to temperature-based mass measurement.",
+        "b": "Involves precipitation, not temperature-based analysis.",
+        "c": "Uses electric current, not temperature.",
+        "d": "Correct: Thermogravimetry measures mass changes as temperature varies."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

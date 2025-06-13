@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "-----------is the incorporation of trace element into mineral structure during solid solution formation and recrystallization of minerals.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Post precipitation",
+        "b": "Adsorption",
+        "c": "Nucleation",
+        "d": "Co-precipitation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Occurs after main precipitation and not during recrystallization.",
+        "b": "Adsorption involves surface interaction, not structural incorporation.",
+        "c": "Nucleation is the initiation step, unrelated to trace incorporation.",
+        "d": "Correct: Co-precipitation includes incorporation of impurities into crystal structure."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "------------is a term used to describe the effect on a solution of two dissolved solutes that contain the same ion or ions.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Phase effect",
+        "b": "Adsorption",
+        "c": "Common ion effect",
+        "d": "Salt effect"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Phase effect refers to phase boundaries, not ion concentration.",
+        "b": "Unrelated to ion concentration effects.",
+        "c": "Correct: Common ion effect impacts solubility of compounds with shared ions.",
+        "d": "Salt effect involves ionic strength, not necessarily common ions."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ion product---------- Ksp, thus a precipitate will form",
+      "answers": {
+        "a": "Equal to",
+        "b": "Greater than",
+        "c": "Less than",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Equilibrium condition; no precipitation occurs.",
+        "b": "Correct: Precipitation occurs when ion product exceeds Ksp.",
+        "c": "No precipitation occurs if ion product is less than Ksp.",
+        "d": "Zero means no ions present, so no precipitation."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
