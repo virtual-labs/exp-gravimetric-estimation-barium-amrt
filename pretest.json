@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "--------- is a process where the precipitate is re-dissolved and precipitated out of a cleaner environment.",
+      "answers": {
+        "a": "Dissociation",
+        "b": "Digestion",
+        "c": "None of these",
+        "d": "Crystallization"
+      },
+      "explanations": {
+        "a": "Dissociation is not the correct process here.",
+        "b": "Digestion is related but not the process of re-dissolution and re-precipitation.",
+        "c": "This option is incorrect.",
+        "d": "Correct: Crystallization involves re-dissolving and precipitating in a cleaner environment."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Digestion can help reduce the amount of-------------",
+      "answers": {
+        "a": "Precipitation",
+        "b": "Post-precipitation",
+        "c": "Co-precipitation",
+        "d": "Nucleation"
+      },
+      "explanations": {
+        "a": "Digestion does not reduce precipitation itself.",
+        "b": "Incorrect: Post-precipitation is not significantly affected by digestion.",
+        "c": "Correct: Digestion reduces co-precipitation by allowing impurities to separate.",
+        "d": "Nucleation is the initial step and not reduced by digestion."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The mass of substance is measured as a function of temperature in-----------",
+      "answers": {
+        "a": "Particulate Gravimetry",
+        "b": "Precipitative gravimetry",
+        "c": "Electrogravimetry",
+        "d": "Thermogravimetry"
+      },
+      "explanations": {
+        "a": "Not related to temperature-based mass measurement.",
+        "b": "Involves precipitation, not temperature-based analysis.",
+        "c": "Uses electric current, not temperature.",
+        "d": "Correct: Thermogravimetry measures mass changes as temperature varies."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "-----------is the incorporation of trace element into mineral structure during solid solution formation and recrystallization of minerals.",
+      "answers": {
+        "a": "Post precipitation",
+        "b": "Adsorption",
+        "c": "Nucleation",
+        "d": "Co-precipitation"
+      },
+      "explanations": {
+        "a": "Occurs after main precipitation and not during recrystallization.",
+        "b": "Adsorption involves surface interaction, not structural incorporation.",
+        "c": "Nucleation is the initiation step, unrelated to trace incorporation.",
+        "d": "Correct: Co-precipitation includes incorporation of impurities into crystal structure."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "------------is a term used to describe the effect on a solution of two dissolved solutes that contain the same ion or ions.",
+      "answers": {
+        "a": "Phase effect",
+        "b": "Adsorption",
+        "c": "Common ion effect",
+        "d": "Salt effect"
+      },
+      "explanations": {
+        "a": "Phase effect refers to phase boundaries, not ion concentration.",
+        "b": "Unrelated to ion concentration effects.",
+        "c": "Correct: Common ion effect impacts solubility of compounds with shared ions.",
+        "d": "Salt effect involves ionic strength, not necessarily common ions."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ion product---------- Ksp, thus a precipitate will form",
+      "answers": {
+        "a": "Equal to",
+        "b": "Greater than",
+        "c": "Less than",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Equilibrium condition; no precipitation occurs.",
+        "b": "Correct: Precipitation occurs when ion product exceeds Ksp.",
+        "c": "No precipitation occurs if ion product is less than Ksp.",
+        "d": "Zero means no ions present, so no precipitation."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
